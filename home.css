@@ -1,0 +1,15 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.default-panel > .panel-body{
+	width: 100%;
+}
+#register{
+	padding: 10px;
+	margin: 10px;
+	display: inline;
+}
+#login{
+	display: inline;
+}
